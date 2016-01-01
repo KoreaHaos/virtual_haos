@@ -9,7 +9,7 @@ name: Benjamin Haos
 description: Student Coding Traveler.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/config.png
+avatar: {{ site.baseurl }}{{/images/config.png}}
 
 #
 # Flags below are optional
